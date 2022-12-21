@@ -1,0 +1,13 @@
+@import '../../../../dist/css/variables.css';
+
+:host {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+:host>button{
+  width: 60%;
+  
+}
