@@ -1,4 +1,4 @@
-@import '../../../../dist/css/variables.css';
+@import '../../../../../dist/css/variables.css';
 
 :host {
   display: flex;

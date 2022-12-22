@@ -1,4 +1,4 @@
-@import '../../../../dist/css/variables.css';
+@import '../../../../../dist/css/variables.css';
 
 section{
   width: 100%;
@@ -11,8 +11,8 @@ section{
 
 }
 
-section .loading{
-  background-image: url('../../../../assets/img/bg-task.png');
+section.loading{
+  background-image: url('../../../../../assets/img/bg-task.png');
   background-repeat: no-repeat;
   background-position: center 30px;
 }
