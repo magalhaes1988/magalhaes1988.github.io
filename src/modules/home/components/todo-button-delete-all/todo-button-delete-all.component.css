@@ -8,6 +8,15 @@
 }
 
 :host>button{
+  border: none;
+  border-radius: 50px;
+  background: var(--danger-color);
+
+  font-size: 16px;
+  color:var(--secondary-text-color);
+
   width: 60%;
-  
+  padding: 10px;
+
+
 }
